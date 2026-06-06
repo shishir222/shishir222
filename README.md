@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shishir Chalise</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
 
-- 🔭 I’m currently working on **FACTO**
+- I’m currently learning something 
 
 - 👨‍💻 All of my projects are available at [shishirchalise.com.np](shishirchalise.com.np)
 
