@@ -4,9 +4,6 @@
 - I’m currently learning something 
 
 - 👨‍💻 All of my projects are available at [shishirchalise.com.np](shishirchalise.com.np)
-
-- 📝 I regularly write articles on [https://ccrwritesforyou.blogspot.com/](https://ccrwritesforyou.blogspot.com/)
-
 - 📫 How to reach me **shishirchalise255@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
