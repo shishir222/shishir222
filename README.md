@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="260">
+
 
 * 🎓 Currently studying **BSc. CSIT**
 * 🇳🇵 Based in **Nepal**
@@ -90,7 +90,7 @@
 
 ## 🚀 What I'm Working On
 
-<img align="right" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="220">
+
 
 ```text
 Learning        → C / C++ / Python
